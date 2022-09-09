@@ -1,7 +1,14 @@
 body {background-image: url("../images/nick-fewings-PHKCE9U-Vk4-unsplash.jpg");}
 
-#note-input {background-color:lightYellow;}
+#note-input {
+background-color:lightYellow;
 
-h1 {text-align: center;}
+
+}
+
+h1 {
+padding-left: 125px;
+font-weight: bold;
+}
 
 .d-flex {background-color:lightYellow;}
